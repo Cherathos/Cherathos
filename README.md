@@ -26,10 +26,22 @@ Skills: Python, Forensics, Log Analysis
 Tool that checks file hashes against multiple threat intel sources (VirusTotal-style logic).
 Skills: API usage, Automation, Threat Intel
 
-🎮 Game Server Log Monitor
+🧱 Blockchain Transaction & Wallet System
 
-Real-time monitoring tool that detects suspicious behavior inside a game server.
-Skills: Python, Socket programming, Alerts
+A custom mini-blockchain implementation featuring wallet creation, block mining, transaction validation, and a lightweight consensus mechanism.
+Skills: Python / Solidity, Cryptography (SHA-256), Data Structures, Distributed Systems
+Highlights:
+
+Custom proof-of-work implementation
+
+Transaction pool & wallet structure
+
+Block mining + chain validation
+
+🧩 .NET Core Authentication API
+
+A clean and modular REST API for user authentication using JWT, Entity Framework, and PostgreSQL.
+Skills: C#, ASP.NET Core, Backend Architecture
 
 📈 What I'm Learning Right Now
 
